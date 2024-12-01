@@ -26,13 +26,15 @@ The dataset consisted of several features related to item and store performance.
 - **Missing Values**: Missing values for *Item_Weight* and *Outlet_Size* were imputed using the median and mode, respectively.  
 - **Cleaning**: Duplicate and inconsistent entries were addressed.  
 - **Standardization**: Numerical and categorical variables were standardized for seamless analysis.  
-- **Outlier Analysis**: Outliers were analyzed to ensure that no significant anomalies distorted trends.  
 
 ---
 
 ## 4. Visualizations and Insights  
 
-### Visualization 1: Item Visibility by Outlet Size  
+### Visualization 1: Item Visibility by Outlet Size
+
+![](images/Screenshot%202024-11-30%20190743.png)
+
 **Observations**:  
 - Smaller and medium-sized outlets showed higher median item visibility compared to larger outlets.  
 - High variability in visibility within all outlet sizes suggests room for standardizing display practices.  
@@ -43,6 +45,9 @@ Larger outlets should adopt better inventory display strategies to improve item 
 ---
 
 ### Visualization 2: Outlet Age and Product Variety  
+
+![](images/Screenshot%202024-11-30%20190755.png)
+
 **Observations**:  
 - Older outlets consistently offered a wider variety of products compared to newer outlets.  
 - This highlights the natural evolution of mature stores in catering to customer demands.  
@@ -53,6 +58,9 @@ Leverage the experience of older outlets to guide product variety strategies in 
 ---
 
 ### Visualization 3: Distribution of Product Types by Outlet Type  
+
+![](images/Screenshot%202024-11-30%20190811.png)
+
 **Observations**:  
 - Processed foods and staples dominated across all outlet types.  
 - Non-food items and beverages were less prominent, representing potential growth categories.  
@@ -63,6 +71,9 @@ Increase focus on non-food products and beverages through promotions or bundled 
 ---
 
 ### Visualization 4: MRP Distribution Across Outlet Types  
+
+![](images/Screenshot%202024-11-30%20190826.png)
+
 **Observations**:  
 - The average MRP distribution was consistent across various outlet types, with slightly higher MRPs observed in tiered cities.  
 - The uniform pricing pattern reflects well-calibrated pricing strategies across the board.  
@@ -73,6 +84,9 @@ Consider region-based pricing experiments to explore potential revenue uplifts i
 ---
 
 ### Visualization 5: Changes in Fat Content Distribution by Year  
+
+![](images/Screenshot%202024-11-30%20190947.png)
+
 **Observations**:  
 - Low-fat and regular products maintained consistent dominance over the years.  
 - Irregular and LF categories had minimal presence, indicating limited customer preference.  
@@ -83,6 +97,9 @@ Focus marketing efforts on low-fat and regular categories, as they resonate more
 ---
 
 ### Visualization 6: Average MRP by Outlet Type  
+
+![](images/Screenshot%202024-11-30%20190902.png)
+
 **Observations**:  
 - The average MRP was slightly higher in small outlets compared to medium and large outlets.  
 - This may indicate a targeted focus on premium products in smaller stores.  
@@ -93,6 +110,9 @@ Capitalize on the niche premium product offering in smaller outlets while mainta
 ---
 
 ### Visualization 7: Average MRP Trends by Outlet Establishment Year  
+
+![](images/Screenshot%202024-11-30%20190920.png)
+
 **Observations**:  
 - MRP trends fluctuated over outlet establishment years, reflecting dynamic pricing adjustments over time.  
 - Older outlets exhibited steadier MRP trends compared to newer ones.  
@@ -103,6 +123,9 @@ Monitor MRP trends for newer outlets to align pricing strategies with evolving m
 ---
 
 ### Visualization 8: Changes in Product Mix by Year  
+
+![](images/Screenshot%202024-11-30%20190932.png)
+
 **Observations**:  
 - Certain product categories experienced an upward trend in representation, while others remained stable or declined.  
 - Products like processed foods consistently dominated the product mix.  
