@@ -5,12 +5,12 @@ BIGMART SALES DATA
 
 ---
 
-## 1. Introduction  
+## Introduction  
 The retail industry thrives on the ability to understand and optimize product performance and store operations. This project focuses on analyzing BigMart’s sales data to uncover trends in product visibility, pricing, outlet performance, and sales dynamics. The report incorporates exploratory analysis, visual insights, and actionable recommendations to drive revenue growth and improve customer satisfaction.
 
 ---
 
-## 2. Objectives  
+## Objectives  
 The primary goals of this analysis are:  
 
 - To analyze the relationship between product attributes, store characteristics, and sales.  
@@ -20,7 +20,7 @@ The primary goals of this analysis are:
 
 ---
 
-## 3. Data Loading and Cleaning  
+## Data Loading and Cleaning  
 The dataset consisted of several features related to item and store performance. The following steps were undertaken to ensure data quality:  
 
 - **Missing Values**: Missing values for *Item_Weight* and *Outlet_Size* were imputed using the median and mode, respectively.  
@@ -29,7 +29,7 @@ The dataset consisted of several features related to item and store performance.
 
 ---
 
-## 4. Visualizations and Insights  
+## Visualizations and Insights  
 
 ### Visualization 1: Item Visibility by Outlet Size
 
@@ -135,7 +135,7 @@ Adjust the product mix periodically to align with customer preferences and marke
 
 ---
 
-## 5. Key Insights  
+## Key Insights  
 From the visualizations and analysis:  
 
 1. **Item Visibility**: Smaller outlets had higher visibility, highlighting the need for larger outlets to optimize their inventory display.  
@@ -148,7 +148,7 @@ From the visualizations and analysis:
 
 ---
 
-## 6. Recommendations  
+## Recommendations  
 
 ### Enhance Visibility for High-MRP Items:  
 - Promote and reposition high-MRP items like seafood and dairy to ensure greater sales conversion.  
@@ -170,5 +170,5 @@ From the visualizations and analysis:
 
 ---
 
-## 7. Conclusion  
+## Conclusion  
 This report provides a comprehensive analysis of BigMart’s sales data, identifying key areas for improvement in visibility, pricing, and product diversification. By implementing the recommendations above, BigMart can enhance customer satisfaction and revenue performance. Future analyses could integrate customer demographic data and external factors like promotions for more granular insights.  
