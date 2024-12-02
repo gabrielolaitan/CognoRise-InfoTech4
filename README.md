@@ -85,7 +85,7 @@ Consider region-based pricing experiments to explore potential revenue uplifts i
 
 ### Visualization 5: Changes in Fat Content Distribution by Year  
 
-![](images/Screenshot%202024-11-30%20190947.png)
+![](images/Screensho%202024-12-02%20143209.png)
 
 **Observations**:  
 - Low-fat and regular products maintained consistent dominance over the years.  
