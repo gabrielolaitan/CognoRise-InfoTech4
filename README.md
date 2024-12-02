@@ -88,11 +88,11 @@ Consider region-based pricing experiments to explore potential revenue uplifts i
 ![](images/Screenshot%202024-12-02%20143209.png)
 
 **Observations**:  
-- Low-fat and regular products maintained consistent dominance over the years.  
-- Irregular and LF categories had minimal presence, indicating limited customer preference.  
+- Low-Fat Products: Maintained higher counts compared to regular products across most years, indicating a strong and consistent demand.
+- Regular Products: Show steady counts but are generally fewer than low-fat items.  
 
 **Actionable Insight**:  
-Focus marketing efforts on low-fat and regular categories, as they resonate more with customers.  
+Focus on low-fat and regular products for marketing and inventory strategies, as they consistently align with customer preferences.
 
 ---
 
